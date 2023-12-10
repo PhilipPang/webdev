@@ -1,0 +1,248 @@
+div#container {
+   margin: 0 auto 0 auto;
+   position: relative;
+   text-align: left;
+   width: 1280px;
+}
+body {
+   background-color: #FFFFFF;
+   color: #131022;
+   font-family: Poppins;
+   font-size: 16px;
+   font-weight: normal;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+}
+* {
+   scrollbar-color: rgba(99,102,241,1.00) rgba(246,246,246,1.00);
+   scrollbar-width: thin;
+}
+::-webkit-scrollbar {
+   width: 10px;
+}
+::-webkit-scrollbar-track {
+   background: rgba(246,246,246,1.00);
+}
+::-webkit-scrollbar-thumb {
+   background-color: rgba(99,102,241,1.00);
+   border: 10px solid rgba(99,102,241,1.00);
+   border-radius: 10px;
+}
+::-webkit-scrollbar-corner {
+   background: rgba(246,246,246,1.00);
+}
+::-webkit-scrollbar-thumb:hover {
+   background-color: rgba(62,66,101,1.00);
+   border-color: rgba(62,66,101,1.00);
+}
+a {
+   color: #6366F1;
+   text-decoration: underline;
+}
+a:visited {
+   color: #3E4265;
+}
+a:hover {
+   color: #3E4265;
+   text-decoration: underline;
+}
+#Lottie1 {
+   height: auto;
+   margin-left: auto  !important;
+   margin-right: auto  !important;
+   max-width: 320px;
+   width: 100%;
+}
+#user_Lottie1 {
+   display: block;
+   margin: 0;
+   position: relative;
+   vertical-align: top;
+}
+#user_Lottie1 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+}
+#user_LayoutGrid1 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   border-radius: 0px;
+   box-sizing: border-box;
+   clear: both;
+   display: table;
+   margin: 0;
+   position: relative;
+   table-layout: fixed;
+   text-align: center;
+   width: 100%;
+}
+#LayoutGrid1 {
+   box-sizing: border-box;
+   margin-left: auto;
+   margin-right: auto;
+   max-width: 1280px;
+   padding: 20px 15px 20px 15px;
+}
+#LayoutGrid1 > .row {
+   margin-left: -15px;
+   margin-right: -15px;
+}
+#LayoutGrid1 > .row > .col-1 {
+   box-sizing: border-box;
+   font-size: 0;
+   min-height: 1px;
+   padding-left: 15px;
+   padding-right: 15px;
+   position: relative;
+}
+#LayoutGrid1 > .row > .col-1 {
+   float: left;
+}
+#LayoutGrid1 > .row > .col-1 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   border-radius: 0px;
+   text-align: center;
+   width: 100%;
+}
+#LayoutGrid1:before,
+#LayoutGrid1:after,
+#LayoutGrid1 .row:before,
+#LayoutGrid1 .row:after {
+   content: " ";
+   display: table;
+}
+#LayoutGrid1:after,
+#LayoutGrid1 .row:after {
+   clear: both;
+}
+@media (max-width: 480px) {
+#LayoutGrid1 > .row > .col-1 {
+   float: none;
+   width: 100%  !important;
+}
+}
+#user_LayoutGrid2 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   border-radius: 0px;
+   box-sizing: border-box;
+   clear: both;
+   display: table;
+   margin: 0;
+   position: relative;
+   table-layout: fixed;
+   text-align: center;
+   width: 100%;
+}
+#LayoutGrid2 {
+   box-sizing: border-box;
+   margin-left: auto;
+   margin-right: auto;
+   padding: 20px 15px 20px 15px;
+}
+#LayoutGrid2 > .row {
+   margin-left: -15px;
+   margin-right: -15px;
+}
+#LayoutGrid2 > .row > .col-1 {
+   box-sizing: border-box;
+   font-size: 0;
+   min-height: 1px;
+   padding-left: 15px;
+   padding-right: 15px;
+   position: relative;
+}
+#LayoutGrid2 > .row > .col-1 {
+   float: left;
+}
+#LayoutGrid2 > .row > .col-1 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   border-radius: 0px;
+   text-align: center;
+   width: 100%;
+}
+#LayoutGrid2:before,
+#LayoutGrid2:after,
+#LayoutGrid2 .row:before,
+#LayoutGrid2 .row:after {
+   content: " ";
+   display: table;
+}
+#LayoutGrid2:after,
+#LayoutGrid2 .row:after {
+   clear: both;
+}
+@media (max-width: 480px) {
+#LayoutGrid2 > .row > .col-1 {
+   float: none;
+   width: 100%  !important;
+}
+}
+#user_Text1 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   margin: 0;
+   padding: 0;
+   text-align: center;
+}
+#user_Text1 {
+   color: #3E4265;
+   font-family: Poppins;
+   font-size: 64px;
+   font-weight: 400;
+   line-height: 112.5px;
+}
+#user_Text1 p,
+#user_Text1 ul {
+   margin: 0;
+   padding: 0;
+}
+#user_Text1 {
+   box-sizing: border-box;
+   display: block;
+   margin: 0;
+   width: 100%;
+}
+#user_Text2 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   margin: 0;
+   padding: 0;
+   text-align: center;
+}
+#user_Text2 {
+   color: #6366F1;
+   font-family: Poppins;
+   font-size: 20px;
+   font-weight: 400;
+   line-height: 35px;
+}
+#user_Text2 p,
+#user_Text2 ul {
+   margin: 0;
+   padding: 0;
+}
+#user_Text2 {
+   box-sizing: border-box;
+   display: block;
+   margin: 0;
+   width: 100%;
+}
+#user_Lottie1 {
+   display: inline-block;
+   width: 100%;
+   z-index: 2;
+}
