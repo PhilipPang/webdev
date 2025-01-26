@@ -1,0 +1,98 @@
+[11-Jul-2024 02:57:33 UTC] PHP Warning:  Undefined array key "id" in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 19
+[11-Jul-2024 02:57:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND is_read = 0' at line 1 in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php:81
+Stack trace:
+#0 /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php(81): mysqli_query(Object(mysqli), 'SELECT * FROM n...')
+#1 /home/odeysoft/philippang.work/ppx/admin/admin_report.php(12): include('/home/odeysoft/...')
+#2 {main}
+  thrown in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 81
+[11-Jul-2024 11:22:42 UTC] PHP Warning:  Undefined array key "id" in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 19
+[11-Jul-2024 11:22:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND is_read = 0' at line 1 in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php:81
+Stack trace:
+#0 /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php(81): mysqli_query(Object(mysqli), 'SELECT * FROM n...')
+#1 /home/odeysoft/philippang.work/ppx/admin/admin_supervisor.php(12): include('/home/odeysoft/...')
+#2 {main}
+  thrown in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 81
+[11-Jul-2024 13:32:01 UTC] PHP Warning:  Undefined array key "id" in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 19
+[11-Jul-2024 13:32:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND is_read = 0' at line 1 in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php:81
+Stack trace:
+#0 /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php(81): mysqli_query(Object(mysqli), 'SELECT * FROM n...')
+#1 /home/odeysoft/philippang.work/ppx/admin/admin_contact.php(12): include('/home/odeysoft/...')
+#2 {main}
+  thrown in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 81
+[11-Jul-2024 14:38:38 UTC] PHP Warning:  Undefined array key "id" in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 19
+[11-Jul-2024 14:38:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND is_read = 0' at line 1 in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php:81
+Stack trace:
+#0 /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php(81): mysqli_query(Object(mysqli), 'SELECT * FROM n...')
+#1 /home/odeysoft/philippang.work/ppx/admin/admin_supervisor_edit.php(12): include('/home/odeysoft/...')
+#2 {main}
+  thrown in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 81
+[11-Jul-2024 20:26:31 UTC] PHP Warning:  Undefined array key "id" in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 19
+[11-Jul-2024 20:26:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND is_read = 0' at line 1 in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php:81
+Stack trace:
+#0 /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php(81): mysqli_query(Object(mysqli), 'SELECT * FROM n...')
+#1 /home/odeysoft/philippang.work/ppx/admin/admin_profile.php(12): include('/home/odeysoft/...')
+#2 {main}
+  thrown in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 81
+[12-Jul-2024 06:17:18 UTC] PHP Warning:  Undefined array key "id" in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 19
+[12-Jul-2024 06:17:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND is_read = 0' at line 1 in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php:81
+Stack trace:
+#0 /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php(81): mysqli_query(Object(mysqli), 'SELECT * FROM n...')
+#1 /home/odeysoft/philippang.work/ppx/admin/admin_admin_edit.php(12): include('/home/odeysoft/...')
+#2 {main}
+  thrown in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 81
+[12-Jul-2024 08:08:16 UTC] PHP Warning:  Undefined array key "id" in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 19
+[12-Jul-2024 08:08:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND is_read = 0' at line 1 in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php:81
+Stack trace:
+#0 /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php(81): mysqli_query(Object(mysqli), 'SELECT * FROM n...')
+#1 /home/odeysoft/philippang.work/ppx/admin/admin_student_addnew.php(12): include('/home/odeysoft/...')
+#2 {main}
+  thrown in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 81
+[12-Jul-2024 09:43:40 UTC] PHP Warning:  Undefined array key "id" in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 19
+[12-Jul-2024 09:43:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND is_read = 0' at line 1 in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php:81
+Stack trace:
+#0 /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php(81): mysqli_query(Object(mysqli), 'SELECT * FROM n...')
+#1 /home/odeysoft/philippang.work/ppx/admin/admin_admin.php(12): include('/home/odeysoft/...')
+#2 {main}
+  thrown in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 81
+[13-Jul-2024 05:51:03 UTC] PHP Warning:  Undefined array key "id" in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 19
+[13-Jul-2024 05:51:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND is_read = 0' at line 1 in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php:81
+Stack trace:
+#0 /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php(81): mysqli_query(Object(mysqli), 'SELECT * FROM n...')
+#1 /home/odeysoft/philippang.work/ppx/admin/admin_appointment.php(12): include('/home/odeysoft/...')
+#2 {main}
+  thrown in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 81
+[14-Jul-2024 11:22:01 UTC] PHP Warning:  Undefined array key "id" in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 19
+[14-Jul-2024 11:22:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND is_read = 0' at line 1 in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php:81
+Stack trace:
+#0 /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php(81): mysqli_query(Object(mysqli), 'SELECT * FROM n...')
+#1 /home/odeysoft/philippang.work/ppx/admin/admin_program_inner.php(12): include('/home/odeysoft/...')
+#2 {main}
+  thrown in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 81
+[15-Jul-2024 18:10:30 UTC] PHP Warning:  Undefined array key "id" in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 19
+[15-Jul-2024 18:10:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND is_read = 0' at line 1 in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php:81
+Stack trace:
+#0 /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php(81): mysqli_query(Object(mysqli), 'SELECT * FROM n...')
+#1 /home/odeysoft/philippang.work/ppx/admin/admin_admin_addnew.php(12): include('/home/odeysoft/...')
+#2 {main}
+  thrown in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 81
+[17-Jul-2024 12:43:50 UTC] PHP Warning:  Undefined array key "id" in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 19
+[17-Jul-2024 12:43:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND is_read = 0' at line 1 in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php:81
+Stack trace:
+#0 /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php(81): mysqli_query(Object(mysqli), 'SELECT * FROM n...')
+#1 /home/odeysoft/philippang.work/ppx/admin/admin_program.php(12): include('/home/odeysoft/...')
+#2 {main}
+  thrown in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 81
+[17-Jul-2024 16:48:31 UTC] PHP Warning:  Undefined array key "id" in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 19
+[17-Jul-2024 16:48:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND is_read = 0' at line 1 in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php:81
+Stack trace:
+#0 /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php(81): mysqli_query(Object(mysqli), 'SELECT * FROM n...')
+#1 /home/odeysoft/philippang.work/ppx/admin/admin_student_edit.php(12): include('/home/odeysoft/...')
+#2 {main}
+  thrown in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 81
+[19-Jul-2024 17:52:13 UTC] PHP Warning:  Undefined array key "id" in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 19
+[19-Jul-2024 17:52:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND is_read = 0' at line 1 in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php:81
+Stack trace:
+#0 /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php(81): mysqli_query(Object(mysqli), 'SELECT * FROM n...')
+#1 /home/odeysoft/philippang.work/ppx/admin/admin_supervisor_addnew.php(12): include('/home/odeysoft/...')
+#2 {main}
+  thrown in /home/odeysoft/philippang.work/ppx/admin/admin_navigator.php on line 81
